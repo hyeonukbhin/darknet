@@ -1,6 +1,8 @@
 # weights
 *.weights
 *.conv.23
+backup/
+backup_cjs/
 
 *.o
 *.dSYM
