@@ -1,0 +1,6 @@
+classes= 3
+train  = data_cozmo/train.txt
+valid  = data_cozmo/train.txt
+names = data_cozmo/obj.names
+backup = backup/
+

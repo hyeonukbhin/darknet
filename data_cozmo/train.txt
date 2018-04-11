@@ -1,0 +1,15 @@
+data_cozmo/img/bear1.jpg
+data_cozmo/img/bear2.jpg
+data_cozmo/img/bear3.jpg
+data_cozmo/img/bear4.jpg
+data_cozmo/img/bear5.jpg
+data_cozmo/img/bear6.jpg
+data_cozmo/img/bear7.jpg
+data_cozmo/img/bear8.jpg
+data_cozmo/img/pokemon1.jpg
+data_cozmo/img/pokemon2.jpg
+data_cozmo/img/pokemon3.jpg
+data_cozmo/img/pokemon4.jpg
+data_cozmo/img/pokemon5.jpg
+data_cozmo/img/pokemon6.jpg
+data_cozmo/img/pokemon7.jpg

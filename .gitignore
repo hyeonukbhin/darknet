@@ -1,7 +1,5 @@
 *.weights
 *.conv.*
-data_cjs/
-
 *.o
 *.dSYM
 *.csv

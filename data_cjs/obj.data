@@ -1,0 +1,6 @@
+classes= 2
+train  = data_cjs/train.txt
+valid  = data_cjs/train.txt
+names = data_cjs/obj.names
+backup = backup_cjs
+
